@@ -11,9 +11,10 @@ I'm driven by curiosity, attention to detail, and a love for learning new tools 
 ---
 
 ## 📬 Contact Information
-📧 Email: 12ajmostert12@gmail.com
-🔗 LinkedIn: linkedin.com/in/aj-mostert-87a875376
-🐙 GitHub: github.com/AjM0STERT
+- 📧 Email: 12ajmostert12@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/aj-mostert-87a875376
+- 🐙 GitHub: github.com/AjM0STERT
+
 Feel free to connect with me or view more of my work through the above links.
 
 ---
